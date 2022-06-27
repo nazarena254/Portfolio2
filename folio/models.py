@@ -8,7 +8,6 @@ class PersonalInformation(models.Model):
     phone = models.CharField(max_length=20, blank=True, null=True)
     email = models.EmailField(max_length=255, blank=True, null=True)
     resume = models.FileField(upload_to='resume', blank=True, null=True)
-
     # Social Network
     github = models.URLField(blank=True, null=True)
     linkedin = models.URLField(blank=True, null=True)
