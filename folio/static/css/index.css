@@ -894,8 +894,6 @@ body.dark-theme .nav-menu li:hover > a {
 	color: #5846f9 !important;
 	text-decoration: none !important;
 }
-
-
 body.dark-theme .navbur.scrolled {
 	background: #dffaf9 !important;
 	transition: background-color 0.2s linear;
