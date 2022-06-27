@@ -11,7 +11,7 @@ Nazarena Wambura.</br>
 ## Setup/Installation Requirements
 1. Create a folder and cd to it.
 2. Clone the repository below with the command `git clone <https option url> .`  <br>
-    https://github.com/nazarena254/Portfoli2  
+    https://github.com/nazarena254/Portfolio2  
 3. Install dependencies in the requirements.txt file `pip install -r requirements.txt` .
 4.  Type code . or atom . based on the text editor you have and work on it.   
 
