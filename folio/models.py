@@ -20,6 +20,7 @@ class PersonalInformation(models.Model):
         return self.name_complete
 
 
+
 class About(models.Model):
     title = models.CharField(max_length=20, blank=True, null=True)
     description1 = models.TextField(blank=False, null=True)
