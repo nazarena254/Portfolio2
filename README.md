@@ -37,6 +37,7 @@ Nazarena Wambura.</br>
 2. Creating Django Admin   
      heroku run python manage.py createsuperuser. Then set username, email & password
 
+
 ## Technologies Used
 * Python3.9.2 - as backend language
 * Django4.0.5 - as a Framework
