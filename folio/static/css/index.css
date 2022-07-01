@@ -422,14 +422,12 @@ button:nth-child(2) {
 }
 .row3 {
 	display: flex;
-	justify-content: space-around;
-	align-items: center;
 	flex-wrap: wrap;
 	margin-top: 30px;
+	padding-top:30px
 }
 .initial-6 {
 	background: #1d1836 !important;
-	width: 400px !important;
 }
 .initial-6 {
 	border-radius: 10px;
@@ -439,7 +437,11 @@ button:nth-child(2) {
 	text-align: center;
 	transition: all ease-in-out 0.3s;
 }
-.row3 .initial-6:hover {
+.row3 .initial-6 img {
+	border-radius: 5px !important;
+	position: relative !important;
+}
+ .row3 .initial-6:hover {
 	box-shadow: rgb(23 42 69) 0 20px 30px -10px;
 }
 .initial-6 button {
@@ -462,7 +464,6 @@ button:nth-child(2) {
 	position: absolute !important;
 	content: "";
 	height: 195px;
-	width: 400px;
 	left: 0;
 	top: 0;
 	background: rgb(0, 0, 0, 0.3) !important;
@@ -894,6 +895,7 @@ body.dark-theme .nav-menu li:hover > a {
 	color: #5846f9 !important;
 	text-decoration: none !important;
 }
+
 body.dark-theme .navbur.scrolled {
 	background: #dffaf9 !important;
 	transition: background-color 0.2s linear;
