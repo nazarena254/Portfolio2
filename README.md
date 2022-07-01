@@ -7,6 +7,9 @@ Django web application that allows admin to add/edit her skills and projects.
 Nazarena Wambura.</br>
 [Github Account](https://github.com/nazarena254)
 
+### Homepage
+![Homepage](./folio/static/images/portfolio.png)
+
 
 ## Setup/Installation Requirements
 1. Create a folder and cd to it.
