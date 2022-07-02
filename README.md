@@ -48,7 +48,8 @@ Nazarena Wambura.</br>
 
 ## Support & Contact Information
 For any further inquiries, bugs, contributions or comments, reach me at:<br>
-Email:<nancyngunjiri1@gmail.com>
+Email:<nancyngunjiri1@gmail.com> <br>
+[LinkedIn](https://www.linkedin.com/in/nazarena-wambura)
 
 ## License
 [MIT License](https://github.com/nazarena254/Portfolio2/blob/master/LICENSE)<br>
