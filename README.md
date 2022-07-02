@@ -7,10 +7,6 @@ Django web application that allows admin to add/edit her skills and projects.
 Nazarena Wambura.</br>
 [Github Account](https://github.com/nazarena254)
 
-### Homepage
-![Homepage](./folio/static/images/portfolio.png)
-
-
 ## Setup/Installation Requirements
 1. Create a folder and cd to it.
 2. Clone the repository below with the command `git clone <https option url> .`  <br>
@@ -23,8 +19,8 @@ Nazarena Wambura.</br>
 2. Make migrations
     python3 manage.py makemigrations
 3. Migrate
-   python3 manage.py migrate 
-       
+   python3 manage.py migrate
+
 ## Running the Application
 1. Run main aplication locally on http://127.0.0.1:8000/ local host<br>    
    * python3.9 manage.py runserver<br>
@@ -37,6 +33,8 @@ Nazarena Wambura.</br>
 2. Creating Django Admin   
      heroku run python manage.py createsuperuser. Then set username, email & password
 
+### Homepage
+![Homepage](./folio/static/images/portfolio.png) 
 
 ## Technologies Used
 * Python3.9.2 - as backend language
