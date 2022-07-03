@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description
-Django web application that allows admin to add/edit her skills and projects.
+Django web application that allows admin to add or edit her skills and projects.
 
 ## Author
 Nazarena Wambura.</br>
