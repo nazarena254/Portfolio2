@@ -15,7 +15,7 @@ Nazarena Wambura.</br>
 4.  Type code . or atom . based on the text editor you have and work on it.   
 
 ## Database
-1. Set up Database(postgresql),and put your username and password in the code
+1. Set up Database(postgresql) and put your username and password in the code
 2. Make migrations
     python3 manage.py makemigrations
 3. Migrate
