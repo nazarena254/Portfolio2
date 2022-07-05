@@ -31,7 +31,7 @@ Nazarena Wambura.</br>
      python manage.py createsuperuser. Then set username, email & password
 
 2. Creating Django Admin   
-     heroku run python manage.py createsuperuser. Then set username, email & password
+     heroku run python manage.py createsuperuser. Then set username, email & password.
 
 ### Homepage
 ![Homepage](./folio/static/images/portfolio.png) 
