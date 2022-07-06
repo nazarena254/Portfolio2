@@ -17,21 +17,21 @@ Nazarena Wambura.</br>
 ## Database
 1. Set up Database(postgresql) and put your username and password in the code
 2. Make migrations
-    python3 manage.py makemigrations
+    `python3 manage.py makemigrations`
 3. Migrate
-   python3 manage.py migrate
+   `python3 manage.py migrate`
 
 ## Running the Application
 1. Run main aplication locally on http://127.0.0.1:8000/ local host<br>    
-   * python3.9 manage.py runserver<br>
+   * `python3.9 manage.py runserver` <br>
     Note: python version will vary in future
 
 ## Creating Admins
 1. Creating Admin Locally<br>
-     python manage.py createsuperuser. Then set username, email & password
+     `python manage.py createsuperuser`  Then set username, email & password.
 
-2. Creating Django Admin   
-     heroku run python manage.py createsuperuser. Then set username, email & password.
+2. Creating Heroku Admin   
+     `heroku run python manage.py createsuperuser` Then set username, email & password.
 
 ### Homepage
 ![Homepage](./folio/static/images/portfolio.png) 
