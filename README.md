@@ -12,7 +12,7 @@ Nazarena Wambura.</br>
 2. Clone the repository below with the command `git clone <https option url> .`  <br>
     https://github.com/nazarena254/Portfolio2  
 3. Install dependencies in the requirements.txt file `pip install -r requirements.txt` .
-4.  Type code . or atom . based on the text editor you have and work on it.   
+4.  Type code . or atom . based on the text editor you have & work on it.   
 
 ## Database
 1. Set up Database(postgresql) and put your username and password in the code
