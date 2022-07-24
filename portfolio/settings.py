@@ -128,15 +128,18 @@ cloudinary.config(
       api_secret = config('CLOUDINARY_API_SECRET'), 
     ) 
 
+# Folder to store static files during deployment
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATIC_URL = '/static/'
+# Folder to store additional static files aside from static folder
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
-MEDIA_URL = '/images/'
+# Folder where files uploaded using file or img filed will go. Eg images, pdfs
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static')
+MEDIA_URL = '/images/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
